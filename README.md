@@ -5,7 +5,7 @@ A fast utility for fastq statistic with Q20/Q30/GCcontent.
 
 + kseq.h 源码来源[https://github.com/lh3/seqtk]
 
-+ parse.c 源码来源[https://www.cnblogs.com/xudongliang/p/6397627.html]（结果输出作了调整）
++ parse.c 源码来源[https://www.cnblogs.com/xudongliang/p/6397627.html] （结果输出作了调整）
 
 ### 使用说明
 ```
